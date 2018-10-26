@@ -1,2 +1,2 @@
-# coursera-test-repo
+# datasciencecoursera
 Coursera Test Repo
